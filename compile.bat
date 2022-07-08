@@ -1,1 +1,2 @@
-makelove --init
+makelove
+pause

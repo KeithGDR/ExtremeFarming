@@ -1,0 +1,9 @@
+name = "Extreme Farming"
+default_targets = ["win32", "win64"]
+build_directory = "makelove-build"
+icon_file = "icon.ico"
+
+love_files = [
+    "::git-ls-tree::",
+    "-*/.*",
+]
